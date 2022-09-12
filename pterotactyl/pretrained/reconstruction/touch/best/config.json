@@ -11,5 +11,5 @@
     "exp_id": "touch_27",
     "exp_type": "touch_train",
     "debug": false,
-    "check_point": "/private/home/ejsmith/projects/active/ActiveTouch/pterotactyl/reconstruction/touch/experiments/checkpoint/touch_train/touch_27"
+    "check_point": "/content/gdrive/MyDrive/Active-3D-Vision-and-Touch/pterotactyl/reconstruction/touch/experiments/checkpoint/touch_train/touch_27"
 }

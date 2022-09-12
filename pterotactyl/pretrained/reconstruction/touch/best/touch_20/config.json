@@ -1,0 +1,16 @@
+{
+    "seed": 0,
+    "limit_data": true,
+    "epochs": 1000,
+    "lr": 2e-05,
+    "eval": false,
+    "batch_size": 32,
+    "num_samples": 4000,
+    "patience": 70,
+    "loss_coeff": 9000.0,
+    "exp_id": "touch_20",
+    "exp_type": "touch_train",
+    "debug": false,
+    "pretrained": false,
+    "check_point": "/content/gdrive/MyDrive/Active-3D-Vision-and-Touch/pterotactyl/reconstruction/touch/experiments/checkpoint/touch_train/touch_20"
+}
